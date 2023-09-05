@@ -13,8 +13,7 @@ When the company receives a loan application, the company has to make a decision
 ## General Information
 -  loan.csv is the dataset used
 -  Madhu Venugopal.jpynb is the notebook
--  
--  
+   
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
